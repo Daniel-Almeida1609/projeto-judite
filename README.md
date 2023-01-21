@@ -1,2 +1,3 @@
-# projeto1
-como usar o git
+# Projeto Judite
+
+Uma assistente virtual feita em python
